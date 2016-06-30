@@ -1,0 +1,44 @@
+body {
+	
+}
+
+
+#selectorContainer{
+	background: #EDEDED;
+	padding: 30px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th > h6 {
+	color: rgba(66,139,202,1.00);
+    text-align: center;
+}
+
+#selectorOptions > td{
+	height: 65px;
+} 
+.first-hole{
+	background: #000;
+}
+
+.between-hole{
+	background: #000;
+}
+
+.last-hole{
+	background: #000;
+}
+
+.first-hole.selected-hole{
+	background: #F00;
+}
+
+.between-hole.selected-hole{
+	background: #F00;
+}
+
+.last-hole.selected-hole{
+	background: #F00;
+}

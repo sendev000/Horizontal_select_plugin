@@ -1,0 +1,16 @@
+.HorizontalParentDiv{
+	padding: 4px;
+}
+.HorizontalWorkDiv{
+
+}
+.left_select, .right_select{
+	height: 19px;
+}
+.HorizontalSelect{
+	background: white;
+	border: 1px solid #ccc;
+}
+.HorizontalSelect option{
+
+}
